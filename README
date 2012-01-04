@@ -1,0 +1,8 @@
+
+This is a growing collection of my experimentation with bettering Haskell binary tree function implementations.  
+Essentially I want to know them in and out, because binary trees are such a powerful representation.  I have never
+been taught about binary trees, in any language, so this is going to be a fun challenge.
+
+What I would like to eventually compile is my own efficient binary tree library that has support for balanced tree building, 
+flattening to lists, optimized node insertion and deletion, and generic graphs.  What will eventually be involved 
+are rumtimes and some more involved discussion of the algorithms.
